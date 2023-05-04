@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-03-26T08:45:21.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1MJbHsm200TVSf6UsnuH" version="21.1.1" type="device">
+  <diagram name="Страница 1" id="dIAfWzBbAec-UBCg4gNO">
+    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oqpRDHxQFM7ryKX4FEIr-1" value="&lt;h1&gt;Fee Token&lt;/h1&gt;&lt;p&gt;Fee tokens will be used for paying validators for their job.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Also people (buyers and sellers) will be allowed to stake Fee Tokens.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Reward Token: FTK; Staking Token: FTK;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="20" width="820" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
